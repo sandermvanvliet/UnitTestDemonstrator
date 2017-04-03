@@ -19,3 +19,10 @@ Make sure you only test for correct inputs. there is no need to test for invalid
 - Allow the Add method to handle new lines between numbers (instead of commas):  
 the following input is ok:  “1\n2,3”  (will equal 6)  
 the following input is NOT ok:  “1,\n” (not need to prove it - just clarifying)
+
+
+
+
+## Books to read
+* Kent Beck: *Test Driven Development: By Example*
+* Steve Freeman & Nat Pyrce: *Growing Object-Oriented Software Guided by Tests*
